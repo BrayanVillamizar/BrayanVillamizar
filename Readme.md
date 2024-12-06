@@ -38,13 +38,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brayan-martin-acevedo-villamizar-bb10a4241/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width="40px" alt="LinkedIn">
   </a>
   <a href="mailto:brayanvillamizar14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40px" alt="Gmail">
   </a>
   <a href="https://www.instagram.com/brayanvillamizar14/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" width="40px" alt="Instagram">
   </a>
 </p>
 
