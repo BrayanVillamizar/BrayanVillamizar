@@ -2,7 +2,7 @@
 
 
 
-![Cargando][(https://giphy.com/tu-nuevo-gif-link.gif)](https://giphy.com/gifs/pink-car-drive-j3mdQpQ9SKxFOWs9gy)
+![Cargando con rayos](https://giphy.com/gifs/pink-car-drive-j3mdQpQ9SKxFOWs9gy)
 
 
 
