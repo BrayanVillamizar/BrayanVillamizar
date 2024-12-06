@@ -20,6 +20,19 @@
 ### ⚡ Lenguajes y Tecnologías
 
 <p align="center">
+  <style>
+    /* Efecto hover para cambiar el color de los íconos */
+    .tech-icon {
+      transition: all 0.3s ease; /* Transición suave */
+      display: inline-block;
+    }
+
+    /* Cuando el cursor pasa sobre el ícono */
+    .tech-icon:hover img {
+      filter: invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg); /* Solo cambia el color de la imagen */
+    }
+  </style>
+
   <a href="https://www.python.org/" target="_blank">
     <span class="tech-icon">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="40px" alt="Python"/>
@@ -81,20 +94,6 @@
     </span>
   </a>
 </p>
-
-<style>
-  /* Efecto hover para cambiar el color de los íconos */
-  .tech-icon {
-    transition: all 0.3s ease; /* Transición suave */
-    display: inline-block;
-  }
-
-  /* Cuando el cursor pasa sobre el ícono */
-  .tech-icon:hover img {
-    filter: invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg); /* Solo cambia el color de la imagen */
-  }
-</style>
-
 
 
 
