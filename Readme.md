@@ -38,8 +38,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brayan-martin-acevedo-villamizar-bb10a4241/" > <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width="40px" alt="LinkedIn"></a>
- <a href="mailto:brayanvillamizar14@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40px" alt="Gmail"></a>
   <a href="https://www.instagram.com/brayanvillamizar14/"  ><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" width="40px" alt="Instagram"></a>
+</p>
+<p align="rigth">
+ <a href="mailto:brayanvillamizar14@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40px" alt="Gmail"></a>
+  brayanvillamizar14@gmail.com
 </p>
 
 
