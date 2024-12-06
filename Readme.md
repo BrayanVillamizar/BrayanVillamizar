@@ -12,8 +12,7 @@
 ### 📌 Sobre mí
 
 - 🚀 **Apasionado por la tecnología y la innovación.**
-- 💻 Estudiante de **Ingeniería de Sistemas y Computación** (8vo semestre).
-- 🌱 Actualmente aprendiendo sobre desarrollo web avanzado y bases de datos.
+- 💻 Estudiante de **Ingeniería de Sistemas y Computación**.
 - ⚙️ Me encanta trabajar en **proyectos creativos** y resolver problemas con tecnología.
 
 ---
@@ -51,7 +50,7 @@
 
 - 🚴‍♂️ Aplicación para la gestión de gimnasios.
 - 📅 Control de membresías, actividades y entrenadores.
-- 🛠️ Tecnologías: React, Node.js, MongoDB.
+- 🛠️ Tecnologías: React, node.js,fast api, sql
 
 #### 💡 Más en mi [perfil de GitHub](https://github.com/BrayanVillamizar)
 
