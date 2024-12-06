@@ -35,13 +35,13 @@
 </p>
 
 <style>
-  /* Efecto hover */
+  /* Efecto hover para cambiar el color de los íconos */
   .tech-icon {
-    transition: all 0.3s ease; /* Transición suave para el cambio de color */
+    transition: all 0.3s ease; /* Transición suave */
   }
 
   .tech-icon:hover {
-    filter: brightness(0) saturate(100%) invert(34%) sepia(80%) saturate(3476%) hue-rotate(174deg) brightness(103%) contrast(104%);
+    filter: invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg); /* Cambio de color */
   }
 </style>
 
