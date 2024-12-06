@@ -1,8 +1,10 @@
 <h1 align="center">¡Hola! 👋 Soy Brayan Villamizar</h1>
 
-<p align="center">
-  <img src="https://giphy.com/tu-nuevo-gif-link.gif" style="width: 100%; max-width: 100%; height: auto;" alt="Cargando...">
-</p>
+### ⚡ Cargando... 🚀
+
+![Cargando](https://giphy.com/tu-nuevo-gif-link.gif)
+
+
 
 
 ---
