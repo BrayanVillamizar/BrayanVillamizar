@@ -42,9 +42,9 @@
 </p>
 <p align="rigth">
  <a href="mailto:brayanvillamizar14@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40px" alt="Gmail"></a>
-  brayanvillamizar14@gmail.com
+  
 </p>
-
+brayanvillamizar14@gmail.com
 
 
 ---
