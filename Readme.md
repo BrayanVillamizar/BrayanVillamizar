@@ -1,10 +1,9 @@
 <h1 align="center">¡Hola! 👋 Soy Brayan Villamizar</h1>
 
 
-
-![Cargando con rayos](https://giphy.com/gifs/pink-car-drive-j3mdQpQ9SKxFOWs9gy)
-
-
+<p align="center">
+  <img src="https://giphy.com/gifs/pink-car-drive-j3mdQpQ9SKxFOWs9gy" style="width: 100%; max-width: 100%; height: auto;" alt="Cargando...">
+</p>
 
 
 ---
@@ -39,8 +38,8 @@
 ### 💼 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brayanvillamizar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:brayan.villamizar@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/brayan-martin-acevedo-villamizar-bb10a4241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:brayanvillamizar14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
