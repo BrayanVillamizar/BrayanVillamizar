@@ -20,18 +20,42 @@
 ### ⚡ Lenguajes y Tecnologías
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="40px" alt="Python" class="tech-icon"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" width="40px" alt="Java" class="tech-icon"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" width="40px" alt="MongoDB" class="tech-icon"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="40px" alt="React" class="tech-icon"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="40px" alt="HTML" class="tech-icon"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="40px" alt="CSS" class="tech-icon"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="40px" alt="JavaScript" class="tech-icon"/></a>
-  <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/json.svg" width="40px" alt="JSON" class="tech-icon"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" width="40px" alt="Git" class="tech-icon"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="40px" alt="GitHub" class="tech-icon"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" width="40px" alt="Linux" class="tech-icon"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="40px" alt="SQL" class="tech-icon"/></a>
+  <a href="https://www.python.org/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-python tech-icon"><path d="M17 12l-5 5l-5-5z"></path></svg>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-java tech-icon"><path d="M12 21V3M12 21H7M12 21h5"></path></svg>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mongodb tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-react tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-html5 tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-css3 tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-javascript tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://www.json.org/json-en.html" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-json tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linux tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mysql tech-icon"><path d="M12 2v6H6l6 2V4l6 4-6 2v6z"></path></svg>
+  </a>
 </p>
 
 <style>
@@ -39,11 +63,11 @@
   .tech-icon {
     transition: all 0.3s ease; /* Transición suave */
   }
-
   .tech-icon:hover {
     filter: invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg); /* Cambio de color */
   }
 </style>
+
 
 
 
