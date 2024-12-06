@@ -18,10 +18,20 @@
 ### ⚡ Lenguajes y Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,git,github" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="40px" alt="Python"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" width="40px" alt="Java"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" width="40px" alt="MongoDB"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="40px" alt="React"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="40px" alt="HTML"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="40px" alt="CSS"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="40px" alt="JavaScript"/></a>
+  <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/json.svg" width="40px" alt="JSON"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" width="40px" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="40px" alt="GitHub"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" width="40px" alt="Linux"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="40px" alt="SQL"/></a>
 </p>
 
----
 
 ### 💼 Contacto
 
