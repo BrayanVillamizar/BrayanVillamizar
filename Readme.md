@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Brayan Villamizar</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px">
+  <img src="https://giphy.com/gifs/nightlife-bladerunner-tokyo-city-eFvs5iE6a6ntVIRaEN" width="300px">
 </p>
 
 ---
