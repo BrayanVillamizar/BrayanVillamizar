@@ -20,82 +20,43 @@
 ### ⚡ Lenguajes y Tecnologías
 
 <p align="center">
-  <style>
-    /* Efecto hover para cambiar el color de los íconos */
-    .tech-icon {
-      transition: all 0.3s ease; /* Transición suave */
-      display: inline-block;
-    }
-
-    /* Cuando el cursor pasa sobre el ícono */
-    .tech-icon:hover img {
-      filter: invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg); /* Solo cambia el color de la imagen */
-    }
-  </style>
-
   <a href="https://www.python.org/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="40px" alt="Python"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="40px" alt="Python" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" width="40px" alt="Java"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" width="40px" alt="Java" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" width="40px" alt="MongoDB"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" width="40px" alt="MongoDB" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="40px" alt="React"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="40px" alt="React" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="40px" alt="HTML"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="40px" alt="HTML" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="40px" alt="CSS"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="40px" alt="CSS" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="40px" alt="JavaScript"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="40px" alt="JavaScript" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/json.svg" width="40px" alt="JSON"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/json.svg" width="40px" alt="JSON" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" width="40px" alt="Git"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" width="40px" alt="Git" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="40px" alt="GitHub"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="40px" alt="GitHub" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" width="40px" alt="Linux"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" width="40px" alt="Linux" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <span class="tech-icon">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="40px" alt="SQL"/>
-    </span>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" width="40px" alt="SQL" onmouseover="this.style.filter='invert(30%) sepia(100%) saturate(600%) hue-rotate(210deg)'" onmouseout="this.style.filter='none'"/>
   </a>
 </p>
-
-
 
 
 ### 💼 Contacto
