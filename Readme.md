@@ -17,7 +17,7 @@
 
 ---
 
-### ⚡ Lenguajes y Tecnologías
+### ⚡ Tecnologias
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" width="40px" alt="Python"/></a>
